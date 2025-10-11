@@ -2,6 +2,14 @@
   "name": "base-resbot",
   "version": "1.0.2",
   "description": "Base for bot whatsapp with baileys library",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autoresbot/base-resbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/autoresbot/base-resbot/issues"
+  },
+  "homepage": "https://github.com/autoresbot/base-resbot#readme",
   "type": "module",
   "main": "index.js",
   "scripts": {
