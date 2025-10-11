@@ -17,7 +17,7 @@ try {
   execSync("git push origin master", { stdio: "inherit" });
 
   // 4️⃣ NPM publish
-  execSync("npm publish --access public", { stdio: "inherit" });
+  execSync("npm publish", { stdio: "inherit" });
 
   console.log("✅ Release complete!");
 } catch (err) {
