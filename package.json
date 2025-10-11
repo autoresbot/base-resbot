@@ -1,12 +1,13 @@
 {
   "name": "base-resbot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base for bot whatsapp with baileys library",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "node release.js"
   },
   "publishConfig": {
     "access": "public"
