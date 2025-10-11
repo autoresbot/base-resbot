@@ -1,6 +1,6 @@
 {
   "name": "base-resbot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Base for bot whatsapp with baileys library",
   "repository": {
     "type": "git",
