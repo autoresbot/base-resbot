@@ -4,7 +4,7 @@ try {
   const { sock, events } = await connectToWhatsApp({
     folder: "session",
     type_connection: "pairing", // atau "qr"
-    phoneNumber: "6285124002201",
+    phoneNumber: "628xxx",
     autoread: true,
   });
 
