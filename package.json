@@ -34,7 +34,7 @@
     "@hapi/boom": "^10.0.1",
     "archiver": "^7.0.1",
     "axios": "^1.12.2",
-    "baileys": "github:WhiskeySockets/Baileys#v7.0.0-rc.5",
+    "baileys": "^7.0.0-rc.6",
     "chalk": "^5.6.2",
     "date-fns": "^4.1.0",
     "fluent-ffmpeg": "^2.1.3",
